@@ -1,0 +1,33 @@
+---
+publish: true
+aliases:
+  - Crescent Moon
+created: 2026-03-28T09:52:53.457Z
+modified: 2026-09-20T05:17:04.198Z
+published: 2026-09-20T05:17:04.198Z
+tags:
+move_domain: Tricks
+move_family:
+move_height:
+  - Aerial
+bobbis_level: "[[Intermediate 3]]"
+bobbis_prereq:
+skill_level: Intermediate
+entries: []
+exits: []
+grip: []
+---
+
+|   |   |
+|---|---|
+|move\_domain|Tricks|
+|move\_family||
+|move\_height|Aerial|
+|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 3\|Intermediate 3]]|
+|bobbis\_prereq||
+|skill\_level|Intermediate|
+|entries||
+|exits||
+|grip||
+
+![[Media/{741017BE-7824-403C-B4B4-D9797E4281CE}.png]]
