@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "note-properties": {
+      "source": "github:quartz-community/note-properties",
+      "resolved": "https://github.com/quartz-community/note-properties.git",
+      "commit": "6abae397e87c57ac9af9a9cd4a1567f22b686c91",
+      "installedAt": "2026-10-05T00:42:32.484Z"
+    }
+  }
+}

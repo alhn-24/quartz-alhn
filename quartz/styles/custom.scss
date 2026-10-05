@@ -1,3 +1,17 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+@use "./base.scss";
+
+.right.sidebar {
+  height: auto !important;
+  max-height: none !important;
+  overflow-y: auto !important;
+}
+
+.note-properties {
+  flex-shrink: 0;
+  max-height: 2000px;
+  overflow-y: auto;
+}
