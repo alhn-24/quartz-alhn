@@ -3,15 +3,15 @@ publish: true
 aliases:
   - Straddle Handstand
 created: 2026-03-28T08:52:34.469Z
-modified: 2026-10-04T13:33:19.297Z
-published: 2026-10-04T13:33:19.297Z
+modified: 2026-10-05T02:07:50.438Z
+published: 2026-10-05T02:07:50.438Z
 tags:
   - ToPractice
 move_domain: Tricks
 move_family: Handstand
 move_height:
   - Low
-bobbis_level: "[[Intermediate 3]]"
+bobbis_level: "[[04-Intermediate 3]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries: []

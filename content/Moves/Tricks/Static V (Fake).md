@@ -6,14 +6,14 @@ aliases:
   - Baby Static V
   - Fake Static V
 created: 2026-07-15T09:55:29.063Z
-modified: 2026-10-04T13:40:25.285Z
-published: 2026-10-04T13:40:25.285Z
+modified: 2026-10-05T02:08:08.860Z
+published: 2026-10-05T02:08:08.860Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 5]]"
+bobbis_level: "[[06-Intermediate 5]]"
 bobbis_prereq:
 skill_level:
   - Intermediate

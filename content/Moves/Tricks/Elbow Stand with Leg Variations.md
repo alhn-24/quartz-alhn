@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Elbow Stand
 created: 2026-03-28T08:54:33.378Z
-modified: 2026-10-04T13:28:08.149Z
-published: 2026-10-04T13:28:08.149Z
+modified: 2026-10-05T02:07:50.242Z
+published: 2026-10-05T02:07:50.242Z
 tags:
   - ToPractice
   - Transition
@@ -12,7 +12,7 @@ move_domain: Tricks
 move_family: Handstand
 move_height:
   - Low
-bobbis_level: "[[Intermediate 3]]"
+bobbis_level: "[[04-Intermediate 3]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries: []

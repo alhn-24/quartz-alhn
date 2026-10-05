@@ -4,13 +4,13 @@ aliases:
   - Viva
   - Top Hand Viva
 created: 2026-03-28T09:18:36.750Z
-modified: 2026-10-04T13:48:43.442Z
-published: 2026-10-04T13:48:43.442Z
+modified: 2026-10-05T02:07:50.858Z
+published: 2026-10-05T02:07:50.858Z
 tags:
 move_domain: Tricks
 move_family:
 move_height: Medium
-bobbis_level: "[[Intermediate 3]]"
+bobbis_level: "[[04-Intermediate 3]]"
 bobbis_prereq: Int3-Int4
 skill_level: Intermediate
 entries:

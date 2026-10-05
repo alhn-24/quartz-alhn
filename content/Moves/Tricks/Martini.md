@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Martini sit
 created: 2026-07-24T09:13:52.498Z
-modified: 2026-10-04T13:38:26.455Z
-published: 2026-10-04T13:38:26.455Z
+modified: 2026-10-05T02:06:58.820Z
+published: 2026-10-05T02:06:58.820Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 2]]"
+bobbis_level: "[[03-Intermediate 2]]"
 bobbis_prereq:
 skill_level: Beginner
 entries:

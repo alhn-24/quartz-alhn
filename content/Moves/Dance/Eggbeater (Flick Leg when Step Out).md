@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-03-28T08:33:54.634Z
-modified: 2026-10-04T23:39:45.962Z
-published: 2026-10-04T23:39:45.962Z
+modified: 2026-10-05T02:06:50.186Z
+published: 2026-10-05T02:06:50.186Z
 tags:
   - ToPractice
 move_domain: Dance
 move_family: Leg Sweep
 move_height:
   - Medium
-bobbis_level: "[[Intermediate 1]]"
+bobbis_level: "[[02-Intermediate 1]]"
 skill_level: Beginner
 entries: []
 exits: []

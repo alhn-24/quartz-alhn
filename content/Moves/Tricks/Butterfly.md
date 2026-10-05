@@ -3,15 +3,15 @@ publish: true
 aliases:
   - Venus
 created: 2026-03-28T09:46:53.623Z
-modified: 2026-10-04T13:25:56.244Z
-published: 2026-10-04T13:25:56.244Z
+modified: 2026-10-05T02:08:00.141Z
+published: 2026-10-05T02:08:00.141Z
 tags:
   - ToPractice
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 4]]"
+bobbis_level: "[[05-Intermediate 4]]"
 bobbis_prereq: Int4-Int5
 skill_level: Intermediate
 entries: []

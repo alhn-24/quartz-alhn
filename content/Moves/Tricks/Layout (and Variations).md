@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Layout
 created: 2026-03-28T07:01:24.722Z
-modified: 2026-10-04T13:38:19.338Z
-published: 2026-10-04T13:38:19.338Z
+modified: 2026-10-05T02:06:50.721Z
+published: 2026-10-05T02:06:50.721Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 1]]"
+bobbis_level: "[[02-Intermediate 1]]"
 bobbis_prereq: Int1-Int2
 skill_level: Beginner
 entries: []

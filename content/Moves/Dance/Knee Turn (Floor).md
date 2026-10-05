@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-03-29T21:40:50.963Z
-modified: 2026-10-04T13:08:29.243Z
-published: 2026-10-04T13:08:29.243Z
+modified: 2026-10-05T02:06:31.620Z
+published: 2026-10-05T02:06:31.620Z
 tags:
   - Transition
 move_domain: Dance
 move_family:
 move_height:
   - Low
-bobbis_level: "[[Beginner]]"
+bobbis_level: "[[01-Beginner]]"
 skill_level: Beginner
 entries: []
 exits: []

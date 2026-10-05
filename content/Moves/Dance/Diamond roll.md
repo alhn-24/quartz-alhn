@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-03-28T09:23:33.950Z
-modified: 2026-10-04T12:58:20.911Z
-published: 2026-10-04T12:58:20.911Z
+modified: 2026-10-05T02:06:50.054Z
+published: 2026-10-05T02:06:50.054Z
 tags:
 move_domain: Dance
 move_family:
 move_height:
   - Low
-bobbis_level: "[[Intermediate 1]]"
+bobbis_level: "[[02-Intermediate 1]]"
 skill_level: Beginner
 entries: []
 exits: []

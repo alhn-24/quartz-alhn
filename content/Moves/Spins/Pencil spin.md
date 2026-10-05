@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-03-28T09:28:18.952Z
-modified: 2026-10-04T13:24:07.109Z
-published: 2026-10-04T13:24:07.109Z
+modified: 2026-10-05T02:07:50.026Z
+published: 2026-10-05T02:07:50.026Z
 tags:
   - ToPractice
 move_domain: Spin
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 3]]"
+bobbis_level: "[[04-Intermediate 3]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries: []

@@ -5,14 +5,14 @@ aliases:
   - Backwards Stag
   - Backwards Stag Turn
 created: 2026-03-29T12:25:02.621Z
-modified: 2026-10-04T13:19:38.067Z
-published: 2026-10-04T13:19:38.067Z
+modified: 2026-10-05T02:06:50.258Z
+published: 2026-10-05T02:06:50.258Z
 tags:
 move_domain: Spin
 move_family:
 move_height:
   - Medium
-bobbis_level: "[[Intermediate 1]]"
+bobbis_level: "[[02-Intermediate 1]]"
 bobbis_prereq:
 skill_level: Beginner
 entries: []

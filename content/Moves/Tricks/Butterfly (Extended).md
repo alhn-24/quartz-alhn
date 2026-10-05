@@ -5,15 +5,15 @@ aliases:
   - Extended Venus
   - DVD cover
 created: 2026-03-28T09:46:53.623Z
-modified: 2026-10-04T13:26:19.179Z
-published: 2026-10-04T13:26:19.179Z
+modified: 2026-10-05T02:08:08.588Z
+published: 2026-10-05T02:08:08.588Z
 tags:
   - ToPractice
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 5]]"
+bobbis_level: "[[06-Intermediate 5]]"
 bobbis_prereq: Int5-Adv
 skill_level: Intermediate
 entries:

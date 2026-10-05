@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-03-28T09:29:15.240Z
-modified: 2026-10-04T13:27:26.092Z
-published: 2026-10-04T13:27:26.092Z
+modified: 2026-10-05T02:08:00.314Z
+published: 2026-10-05T02:08:00.314Z
 tags:
   - ToPractice
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 4]]"
+bobbis_level: "[[05-Intermediate 4]]"
 bobbis_prereq: Int4-Int5
 skill_level: Intermediate
 entries: []

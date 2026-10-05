@@ -3,15 +3,15 @@ publish: true
 aliases:
   - Forward Iceskater
 created: 2026-03-28T09:07:29.311Z
-modified: 2026-10-04T13:33:53.823Z
-published: 2026-10-04T13:33:53.823Z
+modified: 2026-10-05T02:07:50.542Z
+published: 2026-10-05T02:07:50.542Z
 tags:
   - ToPractice
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 3]]"
+bobbis_level: "[[04-Intermediate 3]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries:

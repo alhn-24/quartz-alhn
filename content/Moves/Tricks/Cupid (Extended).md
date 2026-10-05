@@ -6,15 +6,15 @@ aliases:
   - Cupid half split
   - Alesia half split
 created: 2026-04-01T01:26:11.041Z
-modified: 2026-10-04T13:27:33.291Z
-published: 2026-10-04T13:27:33.291Z
+modified: 2026-10-05T02:08:00.196Z
+published: 2026-10-05T02:08:00.196Z
 tags:
   - ToPractice
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 4]]"
+bobbis_level: "[[05-Intermediate 4]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries:

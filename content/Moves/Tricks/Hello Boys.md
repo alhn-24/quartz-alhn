@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Wrist Sit
 created: 2026-03-28T09:34:11.599Z
-modified: 2026-10-04T13:33:39.754Z
-published: 2026-10-04T13:33:39.754Z
+modified: 2026-10-05T02:06:50.587Z
+published: 2026-10-05T02:06:50.587Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[Intermediate 1]]"
+bobbis_level: "[[02-Intermediate 1]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries:
