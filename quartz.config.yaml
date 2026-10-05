@@ -132,8 +132,24 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
-    layout:
-      position: left
+    options:
+      folderDefaultState: collapsed
+      folderClickBehavior: link
+      useSavedState: true
+      sortFn: |
+          (a, b) => {
+            const customOrder = ["beginner","intermediate 1","intermediate 2","intermediate 3","intermediate 4","intermediate 5","advanced"];
+            const aName = (a.displayName || "").toLowerCase();
+            const bName = (b.displayName || "").toLowerCase();
+            const aIdx = customOrder.indexOf(aName);
+            const bIdx = customOrder.indexOf(bName);
+            if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx;
+            if (aIdx !== -1) return -1;
+            if (bIdx !== -1) return 1;
+            return aName.localeCompare(bName);
+          }
+      layout:
+        position: left
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
