@@ -23,9 +23,11 @@
   padding-top: 0.5rem;
 }
 
-// disable toggling of explorer
-.explorer-toggle {
-  display: none;
+// disable toggling of explorer on desktop only
+@media (min-width: 768px) {
+  .explorer-toggle {
+    display: none;
+  }
 }
 
 // hide explorer title
