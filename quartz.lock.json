@@ -1,6 +1,12 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "explorer": {
+      "source": "github:quartz-community/explorer",
+      "resolved": "https://github.com/quartz-community/explorer.git",
+      "commit": "bf8e93766283caab163fc11bc8b5904790a769bc",
+      "installedAt": "2026-10-05T02:52:09.584Z"
+    },
     "note-properties": {
       "source": "github:quartz-community/note-properties",
       "resolved": "https://github.com/quartz-community/note-properties.git",

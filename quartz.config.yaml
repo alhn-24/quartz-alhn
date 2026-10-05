@@ -225,9 +225,14 @@ plugins:
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
-      includeAll: true 
+      includeAll: true
       includedProperties: []
-      excludedProperties: [publish, created, modified, published, title]
+      excludedProperties:
+        - publish
+        - created
+        - modified
+        - published
+        - title
       hidePropertiesView: false
       delimiters: ---
       language: yaml
