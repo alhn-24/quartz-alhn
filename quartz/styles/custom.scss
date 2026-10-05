@@ -4,14 +4,31 @@
 
 @use "./base.scss";
 
+// prevent note properties from being cramped in right sidebar
 .right.sidebar {
   height: auto !important;
   max-height: none !important;
   overflow-y: auto !important;
 }
 
+// prevent note properties from being cramped in right sidebar
 .note-properties {
   flex-shrink: 0;
   max-height: 2000px;
   overflow-y: auto;
+}
+
+// remove dead padding space at top of left sidebar
+.page > #quartz-body .sidebar.left {
+  padding-top: 0.5rem;
+}
+
+// disable toggling of explorer
+.explorer-toggle {
+  display: none;
+}
+
+// hide explorer title
+.explorer-header, .explorer .title {
+  display: none;
 }
