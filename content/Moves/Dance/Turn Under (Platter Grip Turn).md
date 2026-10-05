@@ -4,8 +4,8 @@ aliases:
   - Turn Under
   - Platter Grip Turn
 created: 2026-03-29T09:02:13.075Z
-modified: 2026-09-20T04:49:04.371Z
-published: 2026-09-20T04:49:04.371Z
+modified: 2026-10-04T13:19:13.916Z
+published: 2026-10-04T13:19:13.916Z
 tags:
 move_domain: Dance
 move_family:
@@ -20,17 +20,6 @@ exits:
   - "[[Eggbeater (Flick Leg when Step Out)]]"
 grip:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family||
-|move\_height|Medium|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits|[[Moves/Dance/Penche\|Penche]], [[Moves/Dance/Pirouette\|Pirouette]], [[Moves/Dance/Eggbeater \(Flick Leg when Step Out\|Eggbeater (Flick Leg when Step Out)]])|
-|grip||
 
 Turn under upper arm, holding pole.
 

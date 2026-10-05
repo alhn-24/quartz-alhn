@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T10:00:38.830Z
-modified: 2026-09-20T04:41:15.027Z
-published: 2026-09-20T04:41:15.027Z
+modified: 2026-10-04T13:00:51.960Z
+published: 2026-10-04T13:00:51.960Z
 tags:
 move_domain: Dance
 move_family: GymnasticsRoll
@@ -15,17 +15,6 @@ exits: []
 grip: []
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family|GymnasticsRoll|
-|move\_height|Floor|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 
 ![[Media/{54F2C981-872E-4B64-8FB1-64F83E1ACAB7}.png]]
 

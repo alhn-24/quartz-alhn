@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T00:15:15.930Z
-modified: 2026-09-20T05:13:37.198Z
-published: 2026-09-20T05:13:37.198Z
+modified: 2026-10-04T13:36:28.377Z
+published: 2026-10-04T13:36:28.377Z
 tags:
 move_domain: Tricks
 move_family: Invert
@@ -17,18 +17,6 @@ grip:
   - "[[Bicep Grip]]"
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family|Invert|
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 3\|Intermediate 3]]|
-|bobbis\_prereq|Int3-Int4|
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip|[[Grips/Bicep Grip\|Bicep Grip]]|
 
 # Variations
 

@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-03-28T06:46:22.297Z
-modified: 2026-09-20T04:44:26.176Z
-published: 2026-09-20T04:44:26.176Z
+modified: 2026-10-04T23:40:49.669Z
+published: 2026-10-04T23:40:49.669Z
 tags:
 move_domain: Dance
-move_family: leg_sweep
+move_family: Leg Sweep
 move_height:
   - Floor
 bobbis_level:
@@ -15,17 +15,6 @@ exits: []
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family|leg\_sweep|
-|move\_height|Floor|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 
 Lying on floor or propped up on floor. Legs in air and rotate from knee outwards
 

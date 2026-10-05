@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T09:56:41.249Z
-modified: 2026-09-20T04:42:59.005Z
-published: 2026-09-20T04:42:59.005Z
+modified: 2026-10-04T13:08:40.689Z
+published: 2026-10-04T13:08:40.689Z
 tags:
   - ToPractice
 move_domain: Dance
@@ -16,17 +16,6 @@ exits: []
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family||
-|move\_height|Floor|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 
 ![[Media/{643862C1-BBC3-44D4-A202-F35E7643BDE3}.png]]
 On floor in backstag position but front knee hooked around pole, swing forward to go into opposite backstag position.

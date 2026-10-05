@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T08:22:54.177Z
-modified: 2026-09-20T04:59:48.160Z
-published: 2026-09-20T04:59:48.160Z
+modified: 2026-10-04T13:24:15.728Z
+published: 2026-10-04T13:24:15.728Z
 tags:
   - ToPractice
 move_domain: Spin
@@ -17,15 +17,3 @@ exits: []
 grip: "[[Twisty Grip]]"
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Spin|
-|move\_family||
-|move\_height|Medium|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 1\|Intermediate 1]]|
-|bobbis\_prereq||
-|skill\_level||
-|entries||
-|exits||
-|grip|[[Grips/Twisty Grip\|Twisty Grip]]|

@@ -8,8 +8,8 @@ aliases:
   - Closed Leg Jamilla
   - Jamilla (Closed Leg)
 created: 2026-09-17T11:07:44.586Z
-modified: 2026-09-20T05:16:17.533Z
-published: 2026-09-20T05:16:17.533Z
+modified: 2026-10-04T13:37:49.345Z
+published: 2026-10-04T13:37:49.345Z
 tags:
 move_domain: Tricks
 move_family:
@@ -22,18 +22,6 @@ entries: []
 exits: []
 grip:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Medium|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 1\|Intermediate 1]]|
-|bobbis\_prereq|Int1-Int2|
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip||
 
 # Variations:
 

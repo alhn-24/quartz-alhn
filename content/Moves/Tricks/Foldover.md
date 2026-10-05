@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T09:38:00.821Z
-modified: 2026-09-20T05:11:06.153Z
-published: 2026-09-20T05:11:06.153Z
+modified: 2026-10-04T13:28:37.980Z
+published: 2026-10-04T13:28:37.980Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -22,18 +22,6 @@ exits:
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 4\|Intermediate 4]]|
-|bobbis\_prereq|Int4-Int5|
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Outside Leg Hang\|Outside Leg Hang]], [[Moves/Tricks/Inside Leg Hang\|Inside Leg Hang]]|
-|exits|[[Moves/Tricks/Star of David\|Star of David]], [[Moves/Tricks/Outside Leg Hang\|Outside Leg Hang]], [[Moves/Tricks/Inside Leg Hang\|Inside Leg Hang]]|
-|grip||
 
 ![[Media/{C2529005-A1BA-4115-90D7-C10E7E2FECA9}.png]]
 

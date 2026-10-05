@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T09:28:18.952Z
-modified: 2026-09-20T04:59:34.507Z
-published: 2026-09-20T04:59:34.507Z
+modified: 2026-10-04T13:24:07.109Z
+published: 2026-10-04T13:24:07.109Z
 tags:
   - ToPractice
 move_domain: Spin
@@ -19,18 +19,6 @@ grip:
   - "[[Forearm Grip]]"
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Spin|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 3\|Intermediate 3]]|
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip|[[Grips/Baseball Grip\|Baseball Grip]], [[Grips/Forearm Grip\|Forearm Grip]]|
 
 ![[Media/{8F67C7E8-2BAE-44F4-9AF8-31D0D84ABCD8}.png]]
 Notes:

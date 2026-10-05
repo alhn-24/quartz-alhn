@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T09:11:23.628Z
-modified: 2026-09-20T04:59:21.884Z
-published: 2026-09-20T04:59:21.884Z
+modified: 2026-10-04T13:23:59.987Z
+published: 2026-10-04T13:23:59.987Z
 tags:
 move_domain: Spin
 move_family:
@@ -18,18 +18,6 @@ grip:
   - "[[Elbow Grip]]"
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Spin|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 3\|Intermediate 3]]|
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip|[[Grips/Forearm Grip\|Forearm Grip]], [[Grips/Elbow Grip\|Elbow Grip]]|
 
 - lower arm is forearm press
 

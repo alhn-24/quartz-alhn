@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T06:57:37.481Z
-modified: 2026-09-20T05:03:26.488Z
-published: 2026-09-20T05:03:26.488Z
+modified: 2026-10-04T13:26:46.119Z
+published: 2026-10-04T13:26:46.119Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -19,17 +19,5 @@ grip:
   - "[[Forearm Grip]]"
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family|Climb|
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Beginner\|Beginner]]|
-|bobbis\_prereq|Beg-Int1|
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip|[[Grips/Baseball Grip\|Baseball Grip]], [[Grips/Forearm Grip\|Forearm Grip]]|
 
 ![[Media/{8DBF462E-110E-42B9-8D04-F0607BB1C40C}.png]]

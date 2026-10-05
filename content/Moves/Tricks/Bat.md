@@ -4,8 +4,8 @@ aliases:
   - Inverted Crucifix
   - Ankle Grab
 created: 2026-03-29T01:18:20.938Z
-modified: 2026-09-20T05:01:16.001Z
-published: 2026-09-20T05:01:16.001Z
+modified: 2026-10-04T13:25:37.100Z
+published: 2026-10-04T13:25:37.100Z
 tags:
 move_domain: Tricks
 move_family: Invert
@@ -18,17 +18,5 @@ entries: []
 exits:
 grip:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family|Invert|
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 1\|Intermediate 1]]|
-|bobbis\_prereq|Int1-Int2|
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip||
 
 ![[Media/{5267E16E-D6D0-42C0-BE58-1E1440AEF834}.png]]

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T09:19:02.826Z
-modified: 2026-09-20T04:41:28.114Z
-published: 2026-09-20T04:41:28.114Z
+modified: 2026-10-04T13:06:54.544Z
+published: 2026-10-04T13:06:54.544Z
 tags:
 move_domain: Dance
 move_family:
@@ -16,16 +16,6 @@ grip: []
 aliases:
 ---
 
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family||
-|move\_height|Floor|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 Variations:
 
 - Back facing audience instead of front facing

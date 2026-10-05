@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-15T09:55:29.064Z
-modified: 2026-09-20T05:22:55.153Z
-published: 2026-09-20T05:22:55.153Z
+modified: 2026-10-04T13:47:03.934Z
+published: 2026-10-04T13:47:03.934Z
 tags:
 move_domain: Tricks
 move_family:
@@ -18,15 +18,3 @@ exits:
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 4\|Intermediate 4]]|
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Inside Leg Hang\|Inside Leg Hang]]|
-|exits||
-|grip||

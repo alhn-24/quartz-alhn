@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T21:49:54.669Z
-modified: 2026-09-20T05:00:51.492Z
-published: 2026-09-20T05:00:51.492Z
+modified: 2026-10-04T13:25:20.416Z
+published: 2026-10-04T13:25:20.416Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -20,18 +20,6 @@ exits:
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 2\|Intermediate 2]]|
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Angel\|Angel]], [[Moves/Tricks/Ballerina\|Ballerina]]|
-|exits|[[Moves/Tricks/Angel\|Angel]]|
-|grip||
 
 ![[Media/{FE6616EC-EB80-4C5E-8546-A3CC69D14538}.png]]
 

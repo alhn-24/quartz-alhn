@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Open Jamilla, Jamilla (Open), Open Leg Jamilla, Jamilla (Open Leg)
 created: 2026-03-28T08:18:42.215Z
-modified: 2026-09-20T05:15:44.199Z
-published: 2026-09-20T05:15:44.199Z
+modified: 2026-10-04T13:37:31.658Z
+published: 2026-10-04T13:37:31.658Z
 tags:
 move_domain: Tricks
 move_family:
@@ -17,18 +17,6 @@ entries: []
 exits: []
 grip:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Medium|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 1\|Intermediate 1]]|
-|bobbis\_prereq|Int2-Int3|
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip||
 
 # Variations:
 

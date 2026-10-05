@@ -10,10 +10,13 @@
 - [[Moves/Tricks/Jade Split.md|Jade Split]]
 - [[Moves/Tricks/Jamilla (Aerial).md|Jamilla (Aerial)]]
 - [[Moves/Tricks/Shoulder Mount.md|Shoulder Mount]]
-- [[Moves/Tricks/Static V.md|Static V]]
 - [[Moves/Tricks/Static V (Fake).md|Static V (Fake)]]
-- [[Moves/Tricks/Valentine (Baby).md|Valentine (Baby)]]
+- [[Moves/Tricks/Static V.md|Static V]]
 - [[Moves/Tricks/Vertical Split.md|Vertical Split]]
+- [[Moves/Tricks/Valentine (Baby).md|Valentine (Baby)]]
+- [[Moves/Tricks/Holly Drop.md|Holly Drop]]
+- [[Moves/Tricks/Porsche Split.md|Porsche Split]]
+- [[Moves/Tricks/Dragonfly.md|Dragonfly]]
 
 # Prequisites to Move to Advanced
 

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Backwards Iceskater, Iceskater (backwards)
 created: 2026-04-04T10:58:45.872Z
-modified: 2026-09-20T05:13:06.705Z
-published: 2026-09-20T05:13:06.705Z
+modified: 2026-10-04T13:34:07.409Z
+published: 2026-10-04T13:34:07.409Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -19,18 +19,6 @@ entries:
 exits: []
 grip:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 3\|Intermediate 3]]|
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Climb\|Climb]]|
-|exits||
-|grip||
 
 ![[Media/{A93CE322-58F4-47A6-B818-7B3FD9ABAD9C}.png]]
 

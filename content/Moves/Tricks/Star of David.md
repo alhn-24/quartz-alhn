@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T00:54:09.044Z
-modified: 2026-09-20T05:20:00.664Z
-published: 2026-09-20T05:20:00.664Z
+modified: 2026-10-04T13:39:38.769Z
+published: 2026-10-04T13:39:38.769Z
 tags:
 move_domain: Tricks
 move_family:
@@ -17,17 +17,5 @@ exits: []
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 4\|Intermediate 4]]|
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Foldover\|Foldover]]|
-|exits||
-|grip||
 
 ![[Media/{DB46125A-77D3-4004-836A-0F34E47AA188}.png]]

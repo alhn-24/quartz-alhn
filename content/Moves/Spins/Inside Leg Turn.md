@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T08:21:24.749Z
-modified: 2026-09-20T04:58:35.827Z
-published: 2026-09-20T04:58:35.827Z
+modified: 2026-10-04T13:23:32.888Z
+published: 2026-10-04T13:23:32.888Z
 tags:
 move_domain: Spin
 move_family:
@@ -18,15 +18,4 @@ grip:
 aliases:
 ---
 
-|   |   |
-|---|---|
-|move\_domain|Spin|
-|move\_family||
-|move\_height|Medium|
-|bobbis\_level|[[Moves by Bobbi's Levels/Beginner\|Beginner]]|
-|bobbis\_prereq||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip|[[Grips/Half Bracket Grip\|Half Bracket Grip]]|
 ![[Media/{936F4EFE-CE96-4555-9043-B7B83C982E1A}.png]]

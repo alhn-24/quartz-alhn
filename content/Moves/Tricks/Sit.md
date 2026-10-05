@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T06:59:02.041Z
-modified: 2026-09-20T05:19:47.368Z
-published: 2026-09-20T05:19:47.368Z
+modified: 2026-10-04T13:39:31.443Z
+published: 2026-10-04T13:39:31.443Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -16,18 +16,6 @@ entries: []
 exits: []
 grip: []
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Beginner\|Beginner]]|
-|bobbis\_prereq|Beg-Int1|
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 
 # Variations:
 

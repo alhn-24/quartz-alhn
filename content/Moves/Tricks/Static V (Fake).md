@@ -6,8 +6,8 @@ aliases:
   - Baby Static V
   - Fake Static V
 created: 2026-07-15T09:55:29.063Z
-modified: 2026-09-20T05:21:26.841Z
-published: 2026-09-20T05:21:26.841Z
+modified: 2026-10-04T13:40:25.285Z
+published: 2026-10-04T13:40:25.285Z
 tags:
 move_domain: Tricks
 move_family:
@@ -22,18 +22,6 @@ entries:
 exits:
 grip:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 5\|Intermediate 5]]|
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Outside Leg Hang\|Outside Leg Hang]]|
-|exits||
-|grip||
 
 ![[Media/{01D90D9E-2588-4F39-BE96-8ECC0EAD5E11}.png|386]]
 

@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-03-28T06:48:56.624Z
-modified: 2026-09-20T04:43:44.446Z
-published: 2026-09-20T04:43:44.446Z
+modified: 2026-10-04T23:40:31.660Z
+published: 2026-10-04T23:40:31.660Z
 tags:
 move_domain: Dance
-move_family: leg_sweep
+move_family: Leg Sweep
 move_height:
   - Floor
 bobbis_level:
@@ -16,14 +16,4 @@ grip:
 aliases:
 ---
 
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family|leg\_sweep|
-|move\_height|Floor|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 Move from bum/ hip

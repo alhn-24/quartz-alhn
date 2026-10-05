@@ -5,8 +5,8 @@ aliases:
   - Jade Stag
   - Baby Jade Split
 created: 2026-07-15T09:55:29.058Z
-modified: 2026-09-20T05:15:20.102Z
-published: 2026-09-20T05:15:20.102Z
+modified: 2026-10-04T13:37:27.140Z
+published: 2026-10-04T13:37:27.140Z
 tags:
 move_domain: Tricks
 move_family: Split
@@ -22,18 +22,6 @@ entries:
 exits: []
 grip:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family|Split|
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 5\|Intermediate 5]]|
-|bobbis\_prereq|Int5-Adv|
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Foldover\|Foldover]], [[Moves/Tricks/Star of David\|Star of David]], [[Moves/Tricks/Outside Leg Hang\|Outside Leg Hang]]|
-|exits||
-|grip||
 
 ![[Media/Jade-Stag.webp]]
 

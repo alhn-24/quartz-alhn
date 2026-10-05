@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T09:53:19.916Z
-modified: 2026-09-20T04:45:51.607Z
-published: 2026-09-20T04:45:51.607Z
+modified: 2026-10-04T13:10:44.794Z
+published: 2026-10-04T13:10:44.794Z
 tags:
 move_domain: Dance
 move_family:
@@ -15,17 +15,6 @@ exits: []
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family||
-|move\_height|Floor|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SMD3AS25MU?si=HszMTzcNOOfcakGq&amp;start=21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

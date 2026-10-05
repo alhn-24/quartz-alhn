@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T09:28:41.136Z
-modified: 2026-09-20T05:18:26.837Z
-published: 2026-09-20T05:18:26.837Z
+modified: 2026-10-04T13:38:45.706Z
+published: 2026-10-04T13:38:45.706Z
 tags:
 move_domain: Tricks
 move_family:
@@ -18,15 +18,3 @@ exits: []
 grip: []
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 4\|Intermediate 4]]|
-|bobbis\_prereq|Int4-Int5|
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Starfish\|Starfish]], [[Moves/Tricks/Outside Leg Hang\|Outside Leg Hang]]|
-|exits||
-|grip||

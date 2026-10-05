@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Sit Climb
 created: 2026-03-28T06:59:02.041Z
-modified: 2026-09-20T05:04:06.221Z
-published: 2026-09-20T05:04:06.221Z
+modified: 2026-10-04T13:27:15.134Z
+published: 2026-10-04T13:27:15.134Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -20,18 +20,6 @@ grip:
   - "[[Baseball Grip]]"
   - "[[Forearm Grip]]"
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family|Climb|
-|move\_height|Aerial|
-|bobbis\_level||
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip|[[Grips/Baseball Grip\|Baseball Grip]], [[Grips/Forearm Grip\|Forearm Grip]]|
 
 # Variations:
 

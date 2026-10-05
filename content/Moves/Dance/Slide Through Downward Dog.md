@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T08:52:27.996Z
-modified: 2026-09-20T04:47:42.057Z
-published: 2026-09-20T04:47:42.057Z
+modified: 2026-10-04T13:15:47.467Z
+published: 2026-10-04T13:15:47.467Z
 tags:
 move_domain: Dance
 move_family:
@@ -16,16 +16,6 @@ grip: []
 aliases:
 ---
 
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family||
-|move\_height|Floor|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 ![[Media/{16ED8EAE-2A0D-4195-AE6D-249811E4C819}.png]]
 ![[Media/{BBB6629E-DCE1-4C3D-826C-7D6E1E703A73}.png]]
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T09:40:52.653Z
-modified: 2026-09-20T05:24:55.229Z
-published: 2026-09-20T05:24:55.229Z
+modified: 2026-10-04T13:48:21.574Z
+published: 2026-10-04T13:48:21.574Z
 tags:
 move_domain: Tricks
 move_family:
@@ -16,18 +16,6 @@ exits:
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Medium|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 4\|Intermediate 4]]|
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Layout \(and Variations\|Layout (and Variations)]])|
-|exits||
-|grip||
 
 ![[Media/{87DF2279-DD01-4B6D-8EBF-36A271D8D55C}.png]]
 

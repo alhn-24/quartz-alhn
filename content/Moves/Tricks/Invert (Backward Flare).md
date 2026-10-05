@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Backward Flare Invert
 created: 2026-03-28T06:26:54.508Z
-modified: 2026-09-20T05:14:14.646Z
-published: 2026-09-20T05:14:14.646Z
+modified: 2026-10-04T13:36:47.545Z
+published: 2026-10-04T13:36:47.545Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -19,18 +19,6 @@ exits: []
 grip:
   - "[[Baseball Grip]]"
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family|Invert|
-|move\_height|Aerial|
-|bobbis\_level||
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip|[[Grips/Baseball Grip\|Baseball Grip]]|
 
 # Notes:
 

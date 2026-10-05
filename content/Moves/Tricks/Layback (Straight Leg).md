@@ -4,8 +4,8 @@ aliases:
   - Layback
   - Straight Leg Layback
 created: 2026-03-28T08:53:16.503Z
-modified: 2026-09-20T05:16:48.554Z
-published: 2026-09-20T05:16:48.554Z
+modified: 2026-10-04T13:38:05.844Z
+published: 2026-10-04T13:38:05.844Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -21,18 +21,6 @@ exits:
   - "[[Handstand (Straddle)]]"
 grip: []
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 3\|Intermediate 3]]|
-|bobbis\_prereq||
-|skill\_level|Intermediate|
-|entries||
-|exits|[[Moves/Tricks/Elbow Stand with Leg Variations\|Elbow Stand with Leg Variations]], [[Moves/Tricks/Handstand \(Straddle\|Handstand (Straddle)]])|
-|grip||
 
 ![[Media/{F6BB2071-4165-4C2A-893B-85ECFEAFF134}.png]]
 

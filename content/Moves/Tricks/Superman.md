@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T09:22:08.472Z
-modified: 2026-09-20T05:22:06.041Z
-published: 2026-09-20T05:22:06.041Z
+modified: 2026-10-04T13:46:39.677Z
+published: 2026-10-04T13:46:39.677Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -25,18 +25,6 @@ exits:
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 3\|Intermediate 3]]|
-|bobbis\_prereq|Int4-Int5|
-|skill\_level|Intermediate|
-|entries|[[Moves/Tricks/Bat\|Bat]], [[Moves/Tricks/Outside Leg Hang\|Outside Leg Hang]], [[Moves/Tricks/Inside Leg Hang\|Inside Leg Hang]], [[Moves/Tricks/Jamilla\|Jamilla]], [[Moves/Tricks/Starfish\|Starfish]]|
-|exits|[[Moves/Tricks/Titanic\|Titanic]]|
-|grip||
 
 ![[Media/{402DBE62-813D-4A86-BF98-1B7A2D4DE718}.png]]
 

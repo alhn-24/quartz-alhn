@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Scorpion Kick Up
 created: 2026-03-29T08:30:38.975Z
-modified: 2026-09-20T04:46:49.275Z
-published: 2026-09-20T04:46:49.275Z
+modified: 2026-10-04T13:14:53.821Z
+published: 2026-10-04T13:14:53.821Z
 tags:
 move_domain: Dance
 move_family:
@@ -16,17 +16,6 @@ entries: []
 exits: []
 grip:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family||
-|move\_height|Low|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 
 Variations:
 

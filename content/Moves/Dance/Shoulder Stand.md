@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Candlestick
 created: 2026-03-29T09:55:09.314Z
-modified: 2026-09-20T04:47:00.556Z
-published: 2026-09-20T04:47:00.556Z
+modified: 2026-10-04T13:15:05.638Z
+published: 2026-10-04T13:15:05.638Z
 tags:
   - ToPractice
   - Transition
@@ -19,17 +19,6 @@ exits:
   - "[[Leg Waves (Inverted)]]"
 grip:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family|Handstand|
-|move\_height|Low|
-|bobbis\_level||
-|skill\_level||
-|entries||
-|exits|[[Moves/Dance/Leg Waves \(Inverted\|Leg Waves (Inverted)]])|
-|grip||
 
 - enter dragging outside feet across in a large circle.
   ![[Media/{0D054777-0AEC-40EB-B42E-FA6478135C93}.png]]

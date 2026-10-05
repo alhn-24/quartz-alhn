@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T09:05:19.810Z
-modified: 2026-09-20T04:40:02.993Z
-published: 2026-09-20T04:40:02.993Z
+modified: 2026-10-04T12:59:47.199Z
+published: 2026-10-04T12:59:47.199Z
 tags:
   - Transition
 move_domain: Dance
@@ -19,14 +19,3 @@ exits: []
 grip: []
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family||
-|move\_height|Floor|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries|Any Spin, [[Moves/Spins/Chair Spin\|Chair Spin]]|
-|exits||
-|grip||

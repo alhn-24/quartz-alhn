@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T13:47:54.243Z
-modified: 2026-09-20T05:03:10.533Z
-published: 2026-09-20T05:03:10.533Z
+modified: 2026-10-04T13:26:36.714Z
+published: 2026-10-04T13:26:36.714Z
 tags:
 move_domain: Tricks
 move_family:
@@ -16,18 +16,6 @@ exits: []
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level||
-|bobbis\_prereq||
-|skill\_level||
-|entries||
-|exits||
-|grip||
 
 Not sure if have done this or is different.
 

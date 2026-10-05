@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T09:29:15.240Z
-modified: 2026-09-20T05:04:20.083Z
-published: 2026-09-20T05:04:20.083Z
+modified: 2026-10-04T13:27:26.092Z
+published: 2026-10-04T13:27:26.092Z
 tags:
   - ToPractice
 move_domain: Tricks
@@ -17,18 +17,6 @@ exits: []
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Tricks|
-|move\_family||
-|move\_height|Aerial|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 4\|Intermediate 4]]|
-|bobbis\_prereq|Int4-Int5|
-|skill\_level|Intermediate|
-|entries||
-|exits||
-|grip||
 
 ![[Media/{4E30DFC9-933E-4AAA-B308-81F53263B283}.png]]
 

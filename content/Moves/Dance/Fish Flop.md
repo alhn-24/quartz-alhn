@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-28T09:58:43.023Z
-modified: 2026-09-20T04:40:59.982Z
-published: 2026-09-20T04:40:59.982Z
+modified: 2026-10-04T13:00:34.686Z
+published: 2026-10-04T13:00:34.686Z
 tags:
 move_domain: Dance
 move_family: GymnasticsRoll
@@ -16,17 +16,6 @@ exits: []
 grip: []
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family|GymnasticsRoll|
-|move\_height|Floor|
-|bobbis\_level||
-|skill\_level|Intermediate|
-|entries|[[Moves/Dance/Shoulder Stand \(One Shoulder\|Shoulder Stand (One Shoulder)]])|
-|exits||
-|grip||
 
 # Variations:
 

@@ -4,8 +4,8 @@ aliases:
   - Twisty Grip Back Stag
   - Twisty Grip Backstag
 created: 2026-03-28T07:55:04.011Z
-modified: 2026-09-20T04:56:50.321Z
-published: 2026-09-20T04:56:50.321Z
+modified: 2026-10-04T13:19:57.843Z
+published: 2026-10-04T13:19:57.843Z
 tags:
 move_domain: Spin
 move_family:
@@ -20,18 +20,6 @@ exits:
 grip:
   - "[[Twisty Grip]]"
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Spin|
-|move\_family||
-|move\_height|Medium|
-|bobbis\_level|[[Moves by Bobbi's Levels/Intermediate 1\|Intermediate 1]]|
-|bobbis\_prereq||
-|skill\_level|Beginner|
-|entries||
-|exits|[[Moves/Tricks/Ballerina\|Ballerina]]|
-|grip|[[Grips/Twisty Grip\|Twisty Grip]]|
 
 # Variations:
 

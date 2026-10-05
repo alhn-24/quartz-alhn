@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-03-28T22:40:10.984Z
-modified: 2026-09-20T04:40:24.972Z
-published: 2026-09-20T04:40:24.972Z
+modified: 2026-10-04T23:40:02.574Z
+published: 2026-10-04T23:40:02.574Z
 tags:
 move_domain: Dance
-move_family: leg_sweep
+move_family: Leg Sweep
 move_height:
   - Low
 bobbis_level:
@@ -15,17 +15,6 @@ exits: []
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family|leg\_sweep|
-|move\_height|Low|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 
 Variation:
 

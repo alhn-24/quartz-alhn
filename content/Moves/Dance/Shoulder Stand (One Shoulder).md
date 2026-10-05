@@ -3,8 +3,8 @@ publish: true
 aliases:
   - One Shoulder Stand
 created: 2026-03-29T09:07:11.453Z
-modified: 2026-09-20T04:47:16.331Z
-published: 2026-09-20T04:47:16.331Z
+modified: 2026-10-04T13:15:20.707Z
+published: 2026-10-04T13:15:20.707Z
 tags:
   - ToPractice
   - Transition
@@ -20,16 +20,6 @@ exits:
 grip:
 ---
 
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family|Handstand|
-|move\_height|Low|
-|bobbis\_level||
-|skill\_level||
-|entries||
-|exits|[[Moves/Dance/Leg Waves \(Inverted\|Leg Waves (Inverted)]])|
-|grip||
 ![[Media/{6DFBC36F-64EA-4F5B-AD00-3B3B2344CABA}.png]]
 
 ![[Media/{0D054777-0AEC-40EB-B42E-FA6478135C93}.png]]

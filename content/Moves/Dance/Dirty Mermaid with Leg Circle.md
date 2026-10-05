@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-29T08:43:52.724Z
-modified: 2026-09-20T04:39:30.373Z
-published: 2026-09-20T04:39:30.373Z
+modified: 2026-10-04T12:59:05.583Z
+published: 2026-10-04T12:59:05.583Z
 tags:
   - ToPractice
 move_domain: Dance
@@ -16,17 +16,6 @@ exits: []
 grip:
 aliases:
 ---
-
-|   |   |
-|---|---|
-|move\_domain|Dance|
-|move\_family||
-|move\_height|Low|
-|bobbis\_level||
-|skill\_level|Beginner|
-|entries||
-|exits||
-|grip||
 
 - From a kneeling position with legs to one side, weight in hands propped behind,  lift bum/hips high and tuck legs to other side
 - To make more dramatic go into more of a bridge
