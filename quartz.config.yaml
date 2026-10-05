@@ -62,7 +62,7 @@ plugins:
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
-      enableInHtmlEmbed: false
+      enableInHtmlEmbed: true
       enableCheckbox: true
     order: 30
   - source: "@quartz-community/github-flavored-markdown"
@@ -139,7 +139,18 @@ plugins:
       useSavedState: true
       sortFn: |
           (a, b) => {
-            const customOrder = ["beginner","intermediate 1","intermediate 2","intermediate 3","intermediate 4","intermediate 5","advanced"];
+            const customOrder = [
+                "moves",
+                "moves by bobbi's levels",
+                "conditioning",
+                "freestyle or chorey generator",
+                "beginner",
+                "intermediate 1",
+                "intermediate 2",
+                "intermediate 3",
+                "intermediate 4",
+                "intermediate 5",
+                "advanced"];
             const aName = (a.displayName || "").toLowerCase();
             const bName = (b.displayName || "").toLowerCase();
             const aIdx = customOrder.indexOf(aName);
