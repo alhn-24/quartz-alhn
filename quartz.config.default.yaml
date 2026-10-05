@@ -126,8 +126,8 @@ plugins:
     enabled: true
   - source: "@quartz-community/content-page"
     enabled: true
-  - source: "@quartz-community/folder-page"
-    enabled: true
+#  - source: "@quartz-community/folder-page"
+#    enabled: false
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
@@ -139,7 +139,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 10
+      priority: 50
   - source: "@quartz-community/search"
     enabled: true
     layout:

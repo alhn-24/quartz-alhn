@@ -128,14 +128,14 @@ plugins:
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
     options:
       folderDefaultState: collapsed
-      folderClickBehavior: link
+      folderClickBehavior: collapse
       useSavedState: true
       sortFn: |
           (a, b) => {
@@ -153,7 +153,7 @@ plugins:
         position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 20
@@ -166,7 +166,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
