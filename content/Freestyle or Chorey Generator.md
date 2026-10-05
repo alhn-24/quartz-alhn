@@ -23,31 +23,26 @@
     button.textContent = "Regenerate";
     button.style.marginBottom = "1em";
     const list = document.createElement("ol");
-
-```
-const linksHtml = await getMoveLinks();
-
-function generate() {
-  const selection = shuffle(linksHtml).slice(0, 20);
-  list.innerHTML = "";
-  for (const html of selection) {
-    const li = document.createElement("li");
-    li.innerHTML = html;
-    list.appendChild(li);
+    const linksHtml = await getMoveLinks();
+    function generate() {
+      const selection = shuffle(linksHtml).slice(0, 20);
+      list.innerHTML = "";
+      for (const html of selection) {
+        const li = document.createElement("li");
+        li.innerHTML = html;
+        list.appendChild(li);
+      }
+    }
+    button.addEventListener("click", generate);
+    containerEl.appendChild(button);
+    containerEl.appendChild(list);
+    generate();
   }
-}
-button.addEventListener("click", generate);
-containerEl.appendChild(button);
-containerEl.appendChild(list);
-generate();
-```
-
-}
-function setupIfPresent() {
-const containerEl = document.querySelector("#move-shuffle-container");
-if (containerEl) build(containerEl);
-}
-
-document.addEventListener("nav", setupIfPresent);
-setupIfPresent();
-})(); </script>
+  function setupIfPresent() {
+    const containerEl = document.querySelector("#move-shuffle-container");
+    if (containerEl) build(containerEl);
+  }
+  document.addEventListener("nav", setupIfPresent);
+  setupIfPresent();
+})();
+</script>
