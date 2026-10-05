@@ -1,7 +1,7 @@
 <div id="move-shuffle-container"></div>
 <script>
 (function () {
-  const SITE_ROOT = "/quartz-poledex/"; // update if you ever rename the repo again
+  const SITE_ROOT = "/quartz-poledex/"; 
 
 function shuffle(array) {
 const result = array.slice();
