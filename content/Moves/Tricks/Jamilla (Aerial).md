@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Aerial Jamilla
 created: 2026-06-03T10:46:31.207Z
-modified: 2026-10-05T02:08:08.792Z
-published: 2026-10-05T02:08:08.792Z
+modified: 2026-10-05T02:49:38.347Z
+published: 2026-10-05T02:49:38.347Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[06-Intermediate 5]]"
+bobbis_level: "[[Intermediate 5]]"
 bobbis_prereq: Int5-Adv
 skill_level:
   - Intermediate

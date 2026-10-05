@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Twizzle Invert
 created: 2026-03-28T06:28:06.484Z
-modified: 2026-10-05T02:08:00.463Z
-published: 2026-10-05T02:08:00.463Z
+modified: 2026-10-05T02:49:44.914Z
+published: 2026-10-05T02:49:44.914Z
 tags:
 move_domain: Tricks
 move_family: Invert
 move_height:
   - Aerial
-bobbis_level: "[[05-Intermediate 4]]"
+bobbis_level: "[[Intermediate 4]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries: []

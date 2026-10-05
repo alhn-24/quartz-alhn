@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Baby Valentine
 created: 2026-07-15T09:55:29.067Z
-modified: 2026-10-05T02:08:08.928Z
-published: 2026-10-05T02:08:08.928Z
+modified: 2026-10-05T02:49:38.460Z
+published: 2026-10-05T02:49:38.460Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[06-Intermediate 5]]"
+bobbis_level: "[[Intermediate 5]]"
 bobbis_prereq:
 skill_level:
   - Intermediate

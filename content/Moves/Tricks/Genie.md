@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Shitting Frog
 created: 2026-03-28T09:08:58.740Z
-modified: 2026-10-05T02:07:50.372Z
-published: 2026-10-05T02:07:50.372Z
+modified: 2026-10-05T02:49:54.429Z
+published: 2026-10-05T02:49:54.429Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[04-Intermediate 3]]"
+bobbis_level: "[[Intermediate 3]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries: []

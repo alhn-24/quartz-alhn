@@ -8,14 +8,14 @@ aliases:
   - Closed Leg Jamilla
   - Jamilla (Closed Leg)
 created: 2026-09-17T11:07:44.586Z
-modified: 2026-10-05T02:06:50.655Z
-published: 2026-10-05T02:06:50.655Z
+modified: 2026-10-05T02:50:11.719Z
+published: 2026-10-05T02:50:11.719Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Medium
-bobbis_level: "[[02-Intermediate 1]]"
+bobbis_level: "[[Intermediate 1]]"
 bobbis_prereq: Int1-Int2
 skill_level: Intermediate
 entries: []

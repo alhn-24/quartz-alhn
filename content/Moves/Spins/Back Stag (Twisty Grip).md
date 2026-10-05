@@ -4,14 +4,14 @@ aliases:
   - Twisty Grip Back Stag
   - Twisty Grip Backstag
 created: 2026-03-28T07:55:04.011Z
-modified: 2026-10-05T02:06:50.291Z
-published: 2026-10-05T02:06:50.291Z
+modified: 2026-10-05T02:50:11.463Z
+published: 2026-10-05T02:50:11.463Z
 tags:
 move_domain: Spin
 move_family:
 move_height:
   - Medium
-bobbis_level: "[[02-Intermediate 1]]"
+bobbis_level: "[[Intermediate 1]]"
 bobbis_prereq:
 skill_level: Beginner
 entries: []

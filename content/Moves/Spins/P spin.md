@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-03-28T09:11:23.628Z
-modified: 2026-10-05T02:07:49.982Z
-published: 2026-10-05T02:07:49.982Z
+modified: 2026-10-05T02:49:54.167Z
+published: 2026-10-05T02:49:54.167Z
 tags:
 move_domain: Spin
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[04-Intermediate 3]]"
+bobbis_level: "[[Intermediate 3]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries: []

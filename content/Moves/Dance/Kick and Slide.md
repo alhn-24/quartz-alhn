@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Back slide
 created: 2026-03-28T06:56:31.751Z
-modified: 2026-10-05T02:06:31.543Z
-published: 2026-10-05T02:06:31.543Z
+modified: 2026-10-05T02:50:17.330Z
+published: 2026-10-05T02:50:17.330Z
 tags:
   - Transition
 move_domain: Dance
@@ -12,7 +12,7 @@ move_family:
 move_height:
   - Low
   - Medium
-bobbis_level: "[[01-Beginner]]"
+bobbis_level: "[[Beginner]]"
 skill_level: Beginner
 entries: []
 exits: []

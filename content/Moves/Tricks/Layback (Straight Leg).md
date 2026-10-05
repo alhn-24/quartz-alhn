@@ -4,15 +4,15 @@ aliases:
   - Layback
   - Straight Leg Layback
 created: 2026-03-28T08:53:16.503Z
-modified: 2026-10-05T02:07:50.709Z
-published: 2026-10-05T02:07:50.709Z
+modified: 2026-10-05T02:49:54.652Z
+published: 2026-10-05T02:49:54.652Z
 tags:
   - ToPractice
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[04-Intermediate 3]]"
+bobbis_level: "[[Intermediate 3]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries: []

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-03-28T07:51:57.484Z
-modified: 2026-10-05T02:06:50.223Z
-published: 2026-10-05T02:06:50.223Z
+modified: 2026-10-05T02:50:11.410Z
+published: 2026-10-05T02:50:11.410Z
 tags:
 move_domain: Dance
 move_family: Leg Sweep
 move_height:
   - Medium
-bobbis_level: "[[02-Intermediate 1]]"
+bobbis_level: "[[Intermediate 1]]"
 skill_level: Intermediate
 entries: []
 exits:

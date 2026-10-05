@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-03-29T08:34:17.791Z
-modified: 2026-10-05T02:06:50.097Z
-published: 2026-10-05T02:06:50.097Z
+modified: 2026-10-05T02:50:11.269Z
+published: 2026-10-05T02:50:11.269Z
 tags:
   - ToPractice
 move_domain: Dance
 move_family:
 move_height:
   - Low
-bobbis_level: "[[02-Intermediate 1]]"
+bobbis_level: "[[Intermediate 1]]"
 skill_level: Beginner
 entries: []
 exits: []

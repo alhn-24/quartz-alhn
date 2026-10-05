@@ -3,15 +3,15 @@ publish: true
 aliases:
   - Jasmine split
 created: 2026-03-28T09:48:58.245Z
-modified: 2026-10-05T02:08:00.393Z
-published: 2026-10-05T02:08:00.393Z
+modified: 2026-10-05T02:49:44.830Z
+published: 2026-10-05T02:49:44.830Z
 tags:
   - ToPractice
 move_domain: Tricks
 move_family: Split
 move_height:
   - Aerial
-bobbis_level: "[[05-Intermediate 4]]"
+bobbis_level: "[[Intermediate 4]]"
 skill_level: Intermediate
 entries:
   - "[[Starfish]]"

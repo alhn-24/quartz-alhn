@@ -3,13 +3,13 @@ publish: true
 aliases:
   - Jasmine
 created: 2026-05-17T10:33:43.589Z
-modified: 2026-10-05T02:07:50.821Z
-published: 2026-10-05T02:07:50.821Z
+modified: 2026-10-05T02:49:54.734Z
+published: 2026-10-05T02:49:54.734Z
 tags:
 move_domain: Tricks
 move_family:
 move_height: Medium
-bobbis_level: "[[04-Intermediate 3]]"
+bobbis_level: "[[Intermediate 3]]"
 bobbis_prereq: Int3-Int4
 skill_level: Intermediate
 entries:

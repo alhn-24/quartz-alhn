@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Secretary Spin
 created: 2026-07-24T09:13:52.478Z
-modified: 2026-10-05T02:06:31.983Z
-published: 2026-10-05T02:06:31.983Z
+modified: 2026-10-05T02:50:17.608Z
+published: 2026-10-05T02:50:17.608Z
 tags:
 move_domain: Spin
 move_family:
 move_height:
   - Medium
-bobbis_level: "[[01-Beginner]]"
+bobbis_level: "[[Beginner]]"
 bobbis_prereq:
 skill_level: Beginner
 entries:

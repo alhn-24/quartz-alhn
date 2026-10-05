@@ -5,14 +5,14 @@ aliases:
   - Jade Stag
   - Baby Jade Split
 created: 2026-07-15T09:55:29.058Z
-modified: 2026-10-05T02:08:08.726Z
-published: 2026-10-05T02:08:08.726Z
+modified: 2026-10-05T02:49:38.287Z
+published: 2026-10-05T02:49:38.287Z
 tags:
 move_domain: Tricks
 move_family: Split
 move_height:
   - Aerial
-bobbis_level: "[[06-Intermediate 5]]"
+bobbis_level: "[[Intermediate 5]]"
 bobbis_prereq: Int5-Adv
 skill_level: Intermediate
 entries:

@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-03-28T06:57:37.481Z
-modified: 2026-10-05T02:06:32.084Z
-published: 2026-10-05T02:06:32.084Z
+modified: 2026-10-05T02:50:17.671Z
+published: 2026-10-05T02:50:17.671Z
 tags:
   - ToPractice
 move_domain: Tricks
 move_family: Climb
 move_height:
   - Aerial
-bobbis_level: "[[01-Beginner]]"
+bobbis_level: "[[Beginner]]"
 bobbis_prereq: Beg-Int1
 skill_level: Intermediate
 entries: []

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-03-28T09:40:52.653Z
-modified: 2026-10-05T02:08:00.777Z
-published: 2026-10-05T02:08:00.777Z
+modified: 2026-10-05T02:49:45.136Z
+published: 2026-10-05T02:49:45.136Z
 tags:
 move_domain: Tricks
 move_family:
 move_height: Medium
-bobbis_level: "[[05-Intermediate 4]]"
+bobbis_level: "[[Intermediate 4]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries:

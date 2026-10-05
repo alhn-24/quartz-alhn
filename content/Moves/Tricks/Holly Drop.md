@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Leg Switch
 created: 2026-10-04T23:22:36.212Z
-modified: 2026-10-05T02:08:08.998Z
-published: 2026-10-05T02:08:08.998Z
+modified: 2026-10-05T02:49:38.518Z
+published: 2026-10-05T02:49:38.518Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[06-Intermediate 5]]"
+bobbis_level: "[[Intermediate 5]]"
 bobbis_prereq:
 skill_level:
 entries:

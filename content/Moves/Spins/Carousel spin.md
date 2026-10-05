@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-03-28T08:57:23.612Z
-modified: 2026-10-05T02:06:31.820Z
-published: 2026-10-05T02:06:31.820Z
+modified: 2026-10-05T02:50:17.487Z
+published: 2026-10-05T02:50:17.487Z
 tags:
 move_domain: Spin
 move_family:
 move_height:
   - Medium
-bobbis_level: "[[01-Beginner]]"
+bobbis_level: "[[Beginner]]"
 bobbis_prereq:
 skill_level: Beginner
 entries: []

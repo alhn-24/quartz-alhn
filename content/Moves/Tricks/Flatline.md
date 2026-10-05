@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-03-28T09:16:18.185Z
-modified: 2026-10-05T02:07:50.273Z
-published: 2026-10-05T02:07:50.273Z
+modified: 2026-10-05T02:49:54.349Z
+published: 2026-10-05T02:49:54.349Z
 tags:
 move_domain: Tricks
 move_family:
 move_height:
   - Aerial
-bobbis_level: "[[04-Intermediate 3]]"
+bobbis_level: "[[Intermediate 3]]"
 bobbis_prereq:
 skill_level: Intermediate
 entries:
