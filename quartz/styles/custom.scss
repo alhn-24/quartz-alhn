@@ -30,7 +30,9 @@
   }
 }
 
-// hide explorer title
-.explorer-header, .explorer .title {
-  display: none;
+// hide explorer title on desktop only
+@media (min-width: 768px) {
+	.explorer-header, .explorer .title {
+	  display: none;
+	}
 }
