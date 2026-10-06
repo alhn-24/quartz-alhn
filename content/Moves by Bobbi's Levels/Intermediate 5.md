@@ -5,7 +5,6 @@
 - [[Moves/Tricks/Brass Monkey.md|Brass Monkey]]
 - [[Moves/Tricks/Candy.md|Candy]]
 - [[Moves/Tricks/Devil's Point Shuffle.md|Devil's Point Shuffle]]
-- [[Moves/Tricks/Dragonfly.md|Dragonfly]]
 - [[Moves/Tricks/Handstand (Inside Leg Hang).md|Handstand (Inside Leg Hang)]]
 - [[Moves/Tricks/Holly Drop.md|Holly Drop]]
 - [[Moves/Tricks/Jade Split (Fake).md|Jade Split (Fake)]]
@@ -17,6 +16,7 @@
 - [[Moves/Tricks/Static V.md|Static V]]
 - [[Moves/Tricks/Valentine (Baby).md|Valentine (Baby)]]
 - [[Moves/Tricks/Vertical Split.md|Vertical Split]]
+- [[Moves/Tricks/Libellula.md|Libellula]]
 
 # Prequisites to Move to Advanced
 

@@ -181,6 +181,7 @@
 - [[Moves/Tricks/Vomitron.md|Vomitron]]
 - [[Moves/Tricks/Viva (Botttom Hand).md|Viva (Botttom Hand)]]
 - [[Moves/Tricks/Worm.md|Worm]]
+- [[Moves/Tricks/Libellula.md|Libellula]]
 - [[To Practice.md|To Practice]]
 - [[Templates/Grip Template.md|Grip Template]]
 - [[Templates/Pole Move Template.md|Pole Move Template]]
