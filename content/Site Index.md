@@ -117,7 +117,6 @@
 - [[Moves/Tricks/Devil's Point Shuffle.md|Devil's Point Shuffle]]
 - [[Moves/Tricks/Cupid.md|Cupid]]
 - [[Moves/Tricks/Daisy Split.md|Daisy Split]]
-- [[Moves/Tricks/Dragonfly.md|Dragonfly]]
 - [[Moves/Tricks/Flare.md|Flare]]
 - [[Moves/Tricks/Elbow Stand with Leg Variations.md|Elbow Stand with Leg Variations]]
 - [[Moves/Tricks/Foldover.md|Foldover]]
