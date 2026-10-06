@@ -1,8 +1,8 @@
 # Syllabus Moves
 
 - [[Moves/Tricks/Butterfly.md|Butterfly]]
-- [[Moves/Tricks/Cupid.md|Cupid]]
 - [[Moves/Tricks/Cupid (Extended).md|Cupid (Extended)]]
+- [[Moves/Tricks/Cupid.md|Cupid]]
 - [[Moves/Tricks/Daisy Split.md|Daisy Split]]
 - [[Moves/Tricks/Foldover.md|Foldover]]
 - [[Moves/Tricks/Invert (Twizzle).md|Invert (Twizzle)]]

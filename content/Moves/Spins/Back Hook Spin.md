@@ -4,8 +4,8 @@ aliases:
   - Vanessa
   - Backwards Hook Spin
 created: 2026-03-28T06:55:43.387Z
-modified: 2026-10-05T02:50:17.466Z
-published: 2026-10-05T02:50:17.466Z
+modified: 2026-10-05T07:39:48.826Z
+published: 2026-10-05T07:39:48.826Z
 tags:
 move_domain: Spin
 move_family:
@@ -20,3 +20,5 @@ exits:
 grip:
   - "[[Half Bracket Grip]]"
 ---
+
+![[Media/{DCCE7CA4-981B-4261-A939-5042598C0026}.png]]
